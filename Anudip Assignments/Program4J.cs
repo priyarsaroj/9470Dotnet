@@ -7,4 +7,4 @@ class Test
         string b = a.Substring(5, 2);
         Console.WriteLine(b);
     }
-}
+}
