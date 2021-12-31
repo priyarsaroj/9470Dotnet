@@ -25,4 +25,4 @@ namespace object_Class_Gethashcode
             Console.ReadLine();
         }
     }
-}
+}
