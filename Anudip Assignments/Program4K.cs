@@ -7,4 +7,4 @@ class Test
         string b = a.Replace('o', 'd');
         Console.WriteLine(b);
     }
-}
+}
