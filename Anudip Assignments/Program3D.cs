@@ -15,4 +15,4 @@ namespace object_class_string
             Console.ReadLine();
         }
     }
-}
+}
