@@ -7,4 +7,4 @@ class Test
     string b = "Dope";
     Console.WriteLine(a.Equals(b));
 }
-}
+}
