@@ -54,8 +54,8 @@ namespace IEnumerableInterface
         {
 
  new Customer {Name="Vithal Wadje",City="Mumbai",Mobile=99999999999,Amount=89.45 },
- new Customer { Name = "Sudhir Wadje", City = "Latur", Mobile = 88888888888888888888,Amount =426.00 },
- new Customer { Name = "Anil", City = "Delhi", Mobile = 77777777777777777777, Amount =5896.20 }
+ new Customer { Name = "Sudhir Wadje", City = "Latur", Mobile = 8888888888888888888,Amount =426.00 },
+ new Customer { Name = "Anil", City = "Delhi", Mobile = 777777777777777777, Amount =5896.20 }
         };
 
         public IEnumerable<Customer> GetAllCustomer()
