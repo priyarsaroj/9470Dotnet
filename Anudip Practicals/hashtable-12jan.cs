@@ -6,7 +6,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace HashTable
+namespace program2
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
