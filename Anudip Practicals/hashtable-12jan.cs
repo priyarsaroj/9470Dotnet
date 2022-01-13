@@ -6,7 +6,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace program2
+namespace B
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
