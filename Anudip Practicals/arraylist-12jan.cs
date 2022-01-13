@@ -6,7 +6,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace program1
+namespace A
 
 {
     public partial class WebForm1 : System.Web.UI.Page
@@ -19,9 +19,9 @@ namespace program1
         protected void Button2_Click(object sender, EventArgs e)
         {
             ArrayList al = new ArrayList();
-            string str = "Priya Saroj";
+            string str = "priya rajmani saroj";
             int x = 7;
-            DateTime d = DateTime.Parse("8-oct-1985");
+            DateTime d = DateTime.Parse("12-jan-2022");
             al.Add(str);
             al.Add(x);
             al.Add(d);
