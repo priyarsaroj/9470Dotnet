@@ -6,7 +6,7 @@ class Program
 	static void Main(string[] args)
 	{
 		// Store the path of the textfile in your system
-		string file = @"C:\Anudip Priya";
+		string file = @"C:\Anudip Priya\priya.txt";
 
 		Console.WriteLine("Reading File using File.ReadAllText()");
 
