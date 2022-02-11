@@ -17,7 +17,7 @@ color:#FFFFFF;border-right-color:#abb079;border-bottom-color:#abb079;background-
 <body>
 <form id="form1" runat="server">
 <div class="GridviewDiv">
-
+<asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" CssClass="Gridview">
 <HeaderStyle CssClass="headerstyle" />
 <Columns>
 <asp:BoundField HeaderText="Name" DataField="Name" />
