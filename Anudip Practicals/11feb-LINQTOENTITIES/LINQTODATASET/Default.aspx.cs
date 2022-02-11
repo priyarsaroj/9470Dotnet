@@ -39,8 +39,8 @@ namespace LINQTODATASET
                                      Location = dt.Field<string>("Location"),
                                      Gender = dt.Field<string>("Gender"),
                                  };
-                    gvDetails.DataSource = result;
-                    gvDetails.DataBind();
+                    GridView1.DataSource = result;
+                    GridView1.DataBind();
                 }
             }
         }
