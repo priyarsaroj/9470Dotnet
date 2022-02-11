@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Employees>
+<employee>
+<empid>1</empid>
+<empname>Suresh Dasari</empname>
+<salary>10000</salary>
+<gender>Male</gender>
+</employee>
+<employee>
+<empid>2</empid>
+<empname>Rohini Alavala</empname>
+<salary>20000</salary>
+<gender>Female</gender>
+</employee>
+<employee>
+<empid>3</empid>
+<empname>Praveen Alavala</empname>
+<salary>30000</salary>
+<gender>Male</gender>
+</employee>
+<employee>
+<empid>4</empid>
+<empname>Sateesh Chandra</empname>
+<salary>50000</salary>
+<gender>Male</gender>
+</employee>
+<employee>
+<empid>5</empid>
+<empname>Sushmitha</empname>
+<salary>60000</salary>
+<gender>Female</gender>
+</employee>
+</Employees>
