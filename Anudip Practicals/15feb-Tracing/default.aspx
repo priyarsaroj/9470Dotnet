@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="Tracing2._default" %>
+﻿<%@ Page Trace="true" Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="Tracing2._default" %>
 
 <!DOCTYPE html>
 
