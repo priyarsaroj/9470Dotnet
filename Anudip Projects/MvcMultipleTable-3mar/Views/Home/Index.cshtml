@@ -1,0 +1,90 @@
+﻿@model MvcMultipleTable_Demo.ViewModel.EmployeeViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<ul class="nav nav-pills">
+    <li class="nav-item ">
+        <a class="nav-link active rounded-0" data-toggle="pill" href="#home">Employee</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link rounded-0" data-toggle="pill" href="#menu1">Department</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link rounded-0" data-toggle="pill" href="#menu2">Incentive</a>
+    </li>
+</ul>
+<div class="tab-content">
+    <div class="tab-pane container active p-0" id="home">
+        <h5 class="text-uppercase p-2 text-center">List of Employee</h5>
+        <table class="table table-bordered table-striped">
+            <thead class="thead-dark text-white">
+                <tr>
+                    <th>@Html.DisplayNameFor(m => Model.Employees.FirstOrDefault().Name)</th>
+                    <th>@Html.DisplayNameFor(m => Model.Employees.FirstOrDefault().Gender)</th>
+                    <th>@Html.DisplayNameFor(m => Model.Employees.FirstOrDefault().Age)</th>
+                    <th>@Html.DisplayNameFor(m => Model.Employees.FirstOrDefault().Position)</th>
+                    <th>@Html.DisplayNameFor(m => Model.Employees.FirstOrDefault().Office)</th>
+                    <th>@Html.DisplayNameFor(m => Model.Employees.FirstOrDefault().Salary)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var employee in Model.Employees)
+                {
+                    <tr>
+                        <td>@employee.Name</td>
+                        <td>@employee.Gender</td>
+                        <td>@employee.Age</td>
+                        <td>@employee.Position</td>
+                        <td>@employee.Office</td>
+                        <td>@employee.Salary</td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="tab-pane container fade p-0" id="menu1">
+        <h5 class="text-uppercase p-2 text-center">List of Department</h5>
+        <table class="table table-bordered table-striped">
+            <thead class="thead-dark text-white">
+                <tr>
+                    <th>@Html.DisplayNameFor(m => Model.Departments.FirstOrDefault().Id)</th>
+                    <th>@Html.DisplayNameFor(m => Model.Departments.FirstOrDefault().DepartmentName)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var employee in Model.Departments)
+                {
+                    <tr>
+                        <td>@employee.Id</td>
+                        <td>@employee.DepartmentName</td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="tab-pane container fade p-0" id="menu2">
+        <h5 class="text-uppercase p-2 text-center">List of Incentive</h5>
+        <table class="table table-bordered table-striped">
+            <thead class="thead-dark text-white">
+                <tr>
+                    <th>@Html.DisplayNameFor(m => Model.Incentives.FirstOrDefault().Id)</th>
+                    <th>@Html.DisplayNameFor(m => Model.Incentives.FirstOrDefault().IncentiveAmount)</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var employee in Model.Incentives)
+                {
+                    <tr>
+                        <td>@employee.Id</td>
+                        <td>@employee.IncentiveAmount</td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
