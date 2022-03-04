@@ -226,7 +226,7 @@
       </div>
       <div class="footer-info">
         <p>
-          &copy; <span id="displayYear"></span> All Rights Reserved By Priya
+          <span id="displayYear"></span> All Rights Reserved By Priya
         </p>
       </div>
     </div>
