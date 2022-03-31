@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\DataAbstraction\bin\Debug\DataAbstraction.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\DataAbstraction\bin\Debug\DataAbstraction.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\DataAbstraction\bin\Debug\DataAbstraction.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\DataAbstraction\obj\Debug\DataAbstraction.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\DataAbstraction\obj\Debug\DataAbstraction.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\DataAbstraction\obj\Debug\DataAbstraction.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\DataAbstraction\obj\Debug\DataAbstraction.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\DataAbstraction\obj\Debug\DataAbstraction.pdb
