@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\GenericCollectionList\bin\Debug\GenericCollectionList.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\GenericCollectionList\bin\Debug\GenericCollectionList.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\GenericCollectionList\bin\Debug\GenericCollectionList.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\GenericCollectionList\obj\Debug\GenericCollectionList.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\GenericCollectionList\obj\Debug\GenericCollectionList.pdb
