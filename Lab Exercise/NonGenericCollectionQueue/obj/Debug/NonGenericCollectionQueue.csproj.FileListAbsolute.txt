@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\NonGenericCollectionQueue\bin\Debug\NonGenericCollectionQueue.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\NonGenericCollectionQueue\bin\Debug\NonGenericCollectionQueue.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\NonGenericCollectionQueue\bin\Debug\NonGenericCollectionQueue.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\NonGenericCollectionQueue\obj\Debug\NonGenericCollectionQueue.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\NonGenericCollectionQueue\obj\Debug\NonGenericCollectionQueue.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\NonGenericCollectionQueue\obj\Debug\NonGenericCollectionQueue.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\NonGenericCollectionQueue\obj\Debug\NonGenericCollectionQueue.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\NonGenericCollectionQueue\obj\Debug\NonGenericCollectionQueue.pdb
