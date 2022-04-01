@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\Vowels\bin\Debug\Vowels.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\Vowels\bin\Debug\Vowels.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\Vowels\bin\Debug\Vowels.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\Vowels\obj\Debug\Vowels.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Vowels\obj\Debug\Vowels.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Vowels\obj\Debug\Vowels.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Vowels\obj\Debug\Vowels.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\Vowels\obj\Debug\Vowels.pdb
