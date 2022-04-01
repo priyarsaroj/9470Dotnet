@@ -1,8 +1,0 @@
-D:\Pictures\Priya\Anudip Priya\Dot net\Variable\bin\Debug\Variable.exe.config
-D:\Pictures\Priya\Anudip Priya\Dot net\Variable\bin\Debug\Variable.exe
-D:\Pictures\Priya\Anudip Priya\Dot net\Variable\bin\Debug\Variable.pdb
-D:\Pictures\Priya\Anudip Priya\Dot net\Variable\obj\Debug\Variable.csproj.AssemblyReference.cache
-D:\Pictures\Priya\Anudip Priya\Dot net\Variable\obj\Debug\Variable.csproj.SuggestedBindingRedirects.cache
-D:\Pictures\Priya\Anudip Priya\Dot net\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
-D:\Pictures\Priya\Anudip Priya\Dot net\Variable\obj\Debug\Variable.exe
-D:\Pictures\Priya\Anudip Priya\Dot net\Variable\obj\Debug\Variable.pdb

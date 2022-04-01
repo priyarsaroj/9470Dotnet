@@ -1,8 +1,0 @@
-D:\Pictures\Priya\Anudip Priya\Dot net\SumElementArray\bin\Debug\SumElementArray.exe.config
-D:\Pictures\Priya\Anudip Priya\Dot net\SumElementArray\bin\Debug\SumElementArray.exe
-D:\Pictures\Priya\Anudip Priya\Dot net\SumElementArray\bin\Debug\SumElementArray.pdb
-D:\Pictures\Priya\Anudip Priya\Dot net\SumElementArray\obj\Debug\SumElementArray.csproj.AssemblyReference.cache
-D:\Pictures\Priya\Anudip Priya\Dot net\SumElementArray\obj\Debug\SumElementArray.csproj.SuggestedBindingRedirects.cache
-D:\Pictures\Priya\Anudip Priya\Dot net\SumElementArray\obj\Debug\SumElementArray.csproj.CoreCompileInputs.cache
-D:\Pictures\Priya\Anudip Priya\Dot net\SumElementArray\obj\Debug\SumElementArray.exe
-D:\Pictures\Priya\Anudip Priya\Dot net\SumElementArray\obj\Debug\SumElementArray.pdb

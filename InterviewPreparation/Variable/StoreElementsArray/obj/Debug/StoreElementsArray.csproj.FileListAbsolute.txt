@@ -1,8 +1,0 @@
-D:\Pictures\Priya\Anudip Priya\Dot net\StoreElementsArray\bin\Debug\StoreElementsArray.exe.config
-D:\Pictures\Priya\Anudip Priya\Dot net\StoreElementsArray\bin\Debug\StoreElementsArray.exe
-D:\Pictures\Priya\Anudip Priya\Dot net\StoreElementsArray\bin\Debug\StoreElementsArray.pdb
-D:\Pictures\Priya\Anudip Priya\Dot net\StoreElementsArray\obj\Debug\StoreElementsArray.csproj.AssemblyReference.cache
-D:\Pictures\Priya\Anudip Priya\Dot net\StoreElementsArray\obj\Debug\StoreElementsArray.csproj.SuggestedBindingRedirects.cache
-D:\Pictures\Priya\Anudip Priya\Dot net\StoreElementsArray\obj\Debug\StoreElementsArray.csproj.CoreCompileInputs.cache
-D:\Pictures\Priya\Anudip Priya\Dot net\StoreElementsArray\obj\Debug\StoreElementsArray.exe
-D:\Pictures\Priya\Anudip Priya\Dot net\StoreElementsArray\obj\Debug\StoreElementsArray.pdb
