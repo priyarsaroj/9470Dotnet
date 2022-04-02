@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\EvenOdd\bin\Debug\EvenOdd.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\EvenOdd\bin\Debug\EvenOdd.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\EvenOdd\bin\Debug\EvenOdd.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\EvenOdd\obj\Debug\EvenOdd.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\EvenOdd\obj\Debug\EvenOdd.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\EvenOdd\obj\Debug\EvenOdd.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\EvenOdd\obj\Debug\EvenOdd.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\EvenOdd\obj\Debug\EvenOdd.pdb
