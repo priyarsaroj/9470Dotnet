@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\Percentage\bin\Debug\Percentage.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\Percentage\bin\Debug\Percentage.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\Percentage\bin\Debug\Percentage.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\Percentage\obj\Debug\Percentage.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Percentage\obj\Debug\Percentage.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Percentage\obj\Debug\Percentage.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Percentage\obj\Debug\Percentage.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\Percentage\obj\Debug\Percentage.pdb
