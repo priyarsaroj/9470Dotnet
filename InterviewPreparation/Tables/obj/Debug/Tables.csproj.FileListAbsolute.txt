@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\Tables\bin\Debug\Tables.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\Tables\bin\Debug\Tables.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\Tables\bin\Debug\Tables.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\Tables\obj\Debug\Tables.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Tables\obj\Debug\Tables.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Tables\obj\Debug\Tables.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Tables\obj\Debug\Tables.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\Tables\obj\Debug\Tables.pdb
