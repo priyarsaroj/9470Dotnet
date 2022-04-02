@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\ArraySort\bin\Debug\ArraySort.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\ArraySort\bin\Debug\ArraySort.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\ArraySort\bin\Debug\ArraySort.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\ArraySort\obj\Debug\ArraySort.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\ArraySort\obj\Debug\ArraySort.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\ArraySort\obj\Debug\ArraySort.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\ArraySort\obj\Debug\ArraySort.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\ArraySort\obj\Debug\ArraySort.pdb
