@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\FindDay\obj\Debug\FindDay.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\FindDay\obj\Debug\FindDay.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\FindDay\obj\Debug\FindDay.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\FindDay\bin\Debug\FindDay.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\FindDay\bin\Debug\FindDay.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\FindDay\bin\Debug\FindDay.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\FindDay\obj\Debug\FindDay.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\FindDay\obj\Debug\FindDay.pdb
