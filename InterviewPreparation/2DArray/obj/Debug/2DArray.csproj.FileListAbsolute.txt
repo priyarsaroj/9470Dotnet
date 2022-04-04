@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\2DArray\bin\Debug\2DArray.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\2DArray\bin\Debug\2DArray.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\2DArray\bin\Debug\2DArray.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\2DArray\obj\Debug\2DArray.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\2DArray\obj\Debug\2DArray.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\2DArray\obj\Debug\2DArray.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\2DArray\obj\Debug\2DArray.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\2DArray\obj\Debug\2DArray.pdb
