@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckedUncheckedException\bin\Debug\CheckedUncheckedException.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckedUncheckedException\bin\Debug\CheckedUncheckedException.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckedUncheckedException\bin\Debug\CheckedUncheckedException.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckedUncheckedException\obj\Debug\CheckedUncheckedException.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckedUncheckedException\obj\Debug\CheckedUncheckedException.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckedUncheckedException\obj\Debug\CheckedUncheckedException.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckedUncheckedException\obj\Debug\CheckedUncheckedException.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckedUncheckedException\obj\Debug\CheckedUncheckedException.pdb
