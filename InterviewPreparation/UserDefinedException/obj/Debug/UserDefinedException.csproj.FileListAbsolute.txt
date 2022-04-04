@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\UserDefinedException\bin\Debug\UserDefinedException.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\UserDefinedException\bin\Debug\UserDefinedException.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\UserDefinedException\bin\Debug\UserDefinedException.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\UserDefinedException\obj\Debug\UserDefinedException.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\UserDefinedException\obj\Debug\UserDefinedException.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\UserDefinedException\obj\Debug\UserDefinedException.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\UserDefinedException\obj\Debug\UserDefinedException.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\UserDefinedException\obj\Debug\UserDefinedException.pdb
