@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.pdb
