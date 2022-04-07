@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckStrings\bin\Debug\CheckStrings.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckStrings\bin\Debug\CheckStrings.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckStrings\bin\Debug\CheckStrings.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckStrings\obj\Debug\CheckStrings.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckStrings\obj\Debug\CheckStrings.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckStrings\obj\Debug\CheckStrings.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckStrings\obj\Debug\CheckStrings.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\CheckStrings\obj\Debug\CheckStrings.pdb
