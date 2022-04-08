@@ -24,7 +24,6 @@ namespace Generic
             Console.WriteLine("Printing string value:");
             GenericClass<string> s = new GenericClass<string>();
             s.Genericfunction("Priya");
-
         }
     }
 }
