@@ -19,13 +19,12 @@ namespace Generic
         public static void Main(string[] args)
         {
             Console.WriteLine("Printing integer value:");
-            GenericClass<int> i= new GenericClass<int>();
+            GenericClass<int> i = new GenericClass<int>();
             i.Genericfunction(100);
             Console.WriteLine("Printing string value:");
-            GenericClass<string> s= new GenericClass<string>();
+            GenericClass<string> s = new GenericClass<string>();
             s.Genericfunction("Priya");
 
         }
     }
-    
 }
