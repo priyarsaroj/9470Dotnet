@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\CopyArray\bin\Debug\CopyArray.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\CopyArray\bin\Debug\CopyArray.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\CopyArray\bin\Debug\CopyArray.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\CopyArray\obj\Debug\CopyArray.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\CopyArray\obj\Debug\CopyArray.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\CopyArray\obj\Debug\CopyArray.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\CopyArray\obj\Debug\CopyArray.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\CopyArray\obj\Debug\CopyArray.pdb
