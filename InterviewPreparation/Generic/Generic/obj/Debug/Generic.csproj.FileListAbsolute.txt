@@ -1,8 +1,0 @@
-D:\Pictures\Priya\Anudip Priya\Dot net\Generic\bin\Debug\Generic.exe.config
-D:\Pictures\Priya\Anudip Priya\Dot net\Generic\bin\Debug\Generic.exe
-D:\Pictures\Priya\Anudip Priya\Dot net\Generic\bin\Debug\Generic.pdb
-D:\Pictures\Priya\Anudip Priya\Dot net\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
-D:\Pictures\Priya\Anudip Priya\Dot net\Generic\obj\Debug\Generic.csproj.SuggestedBindingRedirects.cache
-D:\Pictures\Priya\Anudip Priya\Dot net\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
-D:\Pictures\Priya\Anudip Priya\Dot net\Generic\obj\Debug\Generic.exe
-D:\Pictures\Priya\Anudip Priya\Dot net\Generic\obj\Debug\Generic.pdb
