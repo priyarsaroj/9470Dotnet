@@ -19,8 +19,8 @@ namespace ForLoop
                     Console.Write(" ");
                 for (j = 1; j <= i; j++)
                     Console.Write("{0}", j);
-                //for (j = i - 1; j >= 1; j--)
-//Console.Write("{0}", j);
+                for (j = i - 1; j >= 1; j--)
+                    Console.Write("{0}", j);
                 Console.Write("\n");
             }
         }
