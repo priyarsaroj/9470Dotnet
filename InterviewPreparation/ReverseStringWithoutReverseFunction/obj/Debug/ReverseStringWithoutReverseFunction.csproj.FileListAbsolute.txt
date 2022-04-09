@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\ReverseStringWithoutReverseFunction\bin\Debug\ReverseStringWithoutReverseFunction.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\ReverseStringWithoutReverseFunction\bin\Debug\ReverseStringWithoutReverseFunction.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\ReverseStringWithoutReverseFunction\bin\Debug\ReverseStringWithoutReverseFunction.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\ReverseStringWithoutReverseFunction\obj\Debug\ReverseStringWithoutReverseFunction.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\ReverseStringWithoutReverseFunction\obj\Debug\ReverseStringWithoutReverseFunction.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\ReverseStringWithoutReverseFunction\obj\Debug\ReverseStringWithoutReverseFunction.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\ReverseStringWithoutReverseFunction\obj\Debug\ReverseStringWithoutReverseFunction.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\ReverseStringWithoutReverseFunction\obj\Debug\ReverseStringWithoutReverseFunction.pdb

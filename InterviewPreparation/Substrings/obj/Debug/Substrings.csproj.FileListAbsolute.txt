@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\Substrings\bin\Debug\Substrings.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\Substrings\bin\Debug\Substrings.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\Substrings\bin\Debug\Substrings.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\Substrings\obj\Debug\Substrings.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Substrings\obj\Debug\Substrings.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Substrings\obj\Debug\Substrings.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Substrings\obj\Debug\Substrings.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\Substrings\obj\Debug\Substrings.pdb
