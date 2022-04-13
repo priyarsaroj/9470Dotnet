@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumber\bin\Debug\PowerOfNumber.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumber\bin\Debug\PowerOfNumber.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumber\bin\Debug\PowerOfNumber.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumber\obj\Debug\PowerOfNumber.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumber\obj\Debug\PowerOfNumber.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumber\obj\Debug\PowerOfNumber.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumber\obj\Debug\PowerOfNumber.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumber\obj\Debug\PowerOfNumber.pdb

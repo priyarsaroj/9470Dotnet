@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\AddTwoNumber\bin\Debug\AddTwoNumber.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\AddTwoNumber\bin\Debug\AddTwoNumber.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\AddTwoNumber\bin\Debug\AddTwoNumber.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\AddTwoNumber\obj\Debug\AddTwoNumber.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\AddTwoNumber\obj\Debug\AddTwoNumber.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\AddTwoNumber\obj\Debug\AddTwoNumber.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\AddTwoNumber\obj\Debug\AddTwoNumber.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\AddTwoNumber\obj\Debug\AddTwoNumber.pdb
