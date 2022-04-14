@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\DeleteSpecificElement\bin\Debug\DeleteSpecificElement.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\DeleteSpecificElement\bin\Debug\DeleteSpecificElement.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\DeleteSpecificElement\bin\Debug\DeleteSpecificElement.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\DeleteSpecificElement\obj\Debug\DeleteSpecificElement.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\DeleteSpecificElement\obj\Debug\DeleteSpecificElement.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\DeleteSpecificElement\obj\Debug\DeleteSpecificElement.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\DeleteSpecificElement\obj\Debug\DeleteSpecificElement.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\DeleteSpecificElement\obj\Debug\DeleteSpecificElement.pdb
