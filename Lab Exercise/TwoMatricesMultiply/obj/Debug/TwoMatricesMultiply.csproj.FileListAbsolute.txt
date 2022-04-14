@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\TwoMatricesMultiply\bin\Debug\TwoMatricesMultiply.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\TwoMatricesMultiply\bin\Debug\TwoMatricesMultiply.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\TwoMatricesMultiply\bin\Debug\TwoMatricesMultiply.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\TwoMatricesMultiply\obj\Debug\TwoMatricesMultiply.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\TwoMatricesMultiply\obj\Debug\TwoMatricesMultiply.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\TwoMatricesMultiply\obj\Debug\TwoMatricesMultiply.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\TwoMatricesMultiply\obj\Debug\TwoMatricesMultiply.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\TwoMatricesMultiply\obj\Debug\TwoMatricesMultiply.pdb
