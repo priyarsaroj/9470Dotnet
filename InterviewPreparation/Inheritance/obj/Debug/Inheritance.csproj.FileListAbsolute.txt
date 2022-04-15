@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\Inheritance\bin\Debug\Inheritance.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\Inheritance\bin\Debug\Inheritance.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\Inheritance\obj\Debug\Inheritance.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\Inheritance\obj\Debug\Inheritance.pdb
