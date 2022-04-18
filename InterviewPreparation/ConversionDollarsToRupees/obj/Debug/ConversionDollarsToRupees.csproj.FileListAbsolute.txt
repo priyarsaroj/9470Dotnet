@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\ConversionDollarsToRupees\bin\Debug\ConversionDollarsToRupees.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\ConversionDollarsToRupees\bin\Debug\ConversionDollarsToRupees.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\ConversionDollarsToRupees\bin\Debug\ConversionDollarsToRupees.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\ConversionDollarsToRupees\obj\Debug\ConversionDollarsToRupees.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\ConversionDollarsToRupees\obj\Debug\ConversionDollarsToRupees.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\ConversionDollarsToRupees\obj\Debug\ConversionDollarsToRupees.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\ConversionDollarsToRupees\obj\Debug\ConversionDollarsToRupees.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\ConversionDollarsToRupees\obj\Debug\ConversionDollarsToRupees.pdb

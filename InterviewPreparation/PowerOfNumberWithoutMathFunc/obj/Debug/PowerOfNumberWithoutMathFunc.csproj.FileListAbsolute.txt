@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumberWithoutMathFunc\bin\Debug\PowerOfNumberWithoutMathFunc.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumberWithoutMathFunc\bin\Debug\PowerOfNumberWithoutMathFunc.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumberWithoutMathFunc\bin\Debug\PowerOfNumberWithoutMathFunc.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumberWithoutMathFunc\obj\Debug\PowerOfNumberWithoutMathFunc.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumberWithoutMathFunc\obj\Debug\PowerOfNumberWithoutMathFunc.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumberWithoutMathFunc\obj\Debug\PowerOfNumberWithoutMathFunc.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumberWithoutMathFunc\obj\Debug\PowerOfNumberWithoutMathFunc.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\PowerOfNumberWithoutMathFunc\obj\Debug\PowerOfNumberWithoutMathFunc.pdb

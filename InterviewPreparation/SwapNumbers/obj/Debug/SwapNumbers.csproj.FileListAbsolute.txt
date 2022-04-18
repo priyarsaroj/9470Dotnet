@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\SwapNumbers\bin\Debug\SwapNumbers.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\SwapNumbers\bin\Debug\SwapNumbers.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\SwapNumbers\bin\Debug\SwapNumbers.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\SwapNumbers\obj\Debug\SwapNumbers.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\SwapNumbers\obj\Debug\SwapNumbers.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\SwapNumbers\obj\Debug\SwapNumbers.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\SwapNumbers\obj\Debug\SwapNumbers.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\SwapNumbers\obj\Debug\SwapNumbers.pdb
