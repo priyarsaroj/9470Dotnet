@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\AsteriskTriangle\obj\Debug\AsteriskTriangle.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\AsteriskTriangle\obj\Debug\AsteriskTriangle.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\AsteriskTriangle\obj\Debug\AsteriskTriangle.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\AsteriskTriangle\bin\Debug\AsteriskTriangle.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\AsteriskTriangle\bin\Debug\AsteriskTriangle.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\AsteriskTriangle\bin\Debug\AsteriskTriangle.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\AsteriskTriangle\obj\Debug\AsteriskTriangle.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\AsteriskTriangle\obj\Debug\AsteriskTriangle.pdb

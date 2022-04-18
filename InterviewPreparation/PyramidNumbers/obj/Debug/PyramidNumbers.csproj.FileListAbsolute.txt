@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\PyramidNumbers\bin\Debug\PyramidNumbers.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\PyramidNumbers\bin\Debug\PyramidNumbers.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\PyramidNumbers\bin\Debug\PyramidNumbers.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\PyramidNumbers\obj\Debug\PyramidNumbers.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\PyramidNumbers\obj\Debug\PyramidNumbers.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\PyramidNumbers\obj\Debug\PyramidNumbers.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\PyramidNumbers\obj\Debug\PyramidNumbers.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\PyramidNumbers\obj\Debug\PyramidNumbers.pdb

@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\CountSpaceString\bin\Debug\CountSpaceString.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\CountSpaceString\bin\Debug\CountSpaceString.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\CountSpaceString\bin\Debug\CountSpaceString.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\CountSpaceString\obj\Debug\CountSpaceString.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\CountSpaceString\obj\Debug\CountSpaceString.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\CountSpaceString\obj\Debug\CountSpaceString.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\CountSpaceString\obj\Debug\CountSpaceString.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\CountSpaceString\obj\Debug\CountSpaceString.pdb

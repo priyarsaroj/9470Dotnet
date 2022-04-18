@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\SeparateIndividualString\bin\Debug\SeparateIndividualString.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\SeparateIndividualString\bin\Debug\SeparateIndividualString.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\SeparateIndividualString\bin\Debug\SeparateIndividualString.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\SeparateIndividualString\obj\Debug\SeparateIndividualString.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\SeparateIndividualString\obj\Debug\SeparateIndividualString.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\SeparateIndividualString\obj\Debug\SeparateIndividualString.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\SeparateIndividualString\obj\Debug\SeparateIndividualString.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\SeparateIndividualString\obj\Debug\SeparateIndividualString.pdb

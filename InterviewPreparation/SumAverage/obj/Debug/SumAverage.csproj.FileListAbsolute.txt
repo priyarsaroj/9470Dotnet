@@ -1,0 +1,8 @@
+D:\Pictures\Priya\Anudip Priya\Dot net\SumAverage\bin\Debug\SumAverage.exe.config
+D:\Pictures\Priya\Anudip Priya\Dot net\SumAverage\bin\Debug\SumAverage.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\SumAverage\bin\Debug\SumAverage.pdb
+D:\Pictures\Priya\Anudip Priya\Dot net\SumAverage\obj\Debug\SumAverage.csproj.AssemblyReference.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\SumAverage\obj\Debug\SumAverage.csproj.SuggestedBindingRedirects.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\SumAverage\obj\Debug\SumAverage.csproj.CoreCompileInputs.cache
+D:\Pictures\Priya\Anudip Priya\Dot net\SumAverage\obj\Debug\SumAverage.exe
+D:\Pictures\Priya\Anudip Priya\Dot net\SumAverage\obj\Debug\SumAverage.pdb
